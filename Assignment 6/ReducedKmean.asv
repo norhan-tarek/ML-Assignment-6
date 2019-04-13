@@ -1,0 +1,6 @@
+clc
+Xr=housepricesdatatrainingdata1(:,4:21);
+K=[2,4,6,8,10,12,14];
+for i=1:7
+  JBr(I)  ClusteringReduced( K,Xr)
+end
